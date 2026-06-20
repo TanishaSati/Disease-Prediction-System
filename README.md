@@ -109,7 +109,3 @@ The models were trained using disease-specific datasets and saved using Python's
 
 ---
 
-
-
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
