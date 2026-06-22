@@ -108,4 +108,8 @@ The models were trained using disease-specific datasets and saved using Python's
 ✅ Lightweight and Fast Deployment
 
 ---
+## UI
+<img width="1567" height="753" alt="image" src="https://github.com/user-attachments/assets/7baca1a5-6e54-46b2-969b-a8a075d83a0d" />
+
+<img width="1827" height="747" alt="image" src="https://github.com/user-attachments/assets/346508d6-38ed-4b3f-95e2-5dc48456cb06" />
 
